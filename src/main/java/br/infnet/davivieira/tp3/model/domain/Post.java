@@ -1,7 +1,6 @@
 package br.infnet.davivieira.tp3.model.domain;
 
 import javax.persistence.*;
-import java.util.List;
 
 
 @Entity
